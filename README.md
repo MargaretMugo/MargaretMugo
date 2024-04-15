@@ -20,7 +20,7 @@ I am a software engineer enthusiastic to explore the machine learning world.
 
 <br />
 <br />
----
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
