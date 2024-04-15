@@ -1,7 +1,11 @@
-### Hi there 👋
+# 👩🏾Margaret Mugo 👋
 
-<!--
-**MargaretMugo/MargaretMugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer**
+
+I am a software engineer enthusiastic to explore the machine learning world. 
+
+###Languages and tools
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 
 Here are some ideas to get you started:
 
