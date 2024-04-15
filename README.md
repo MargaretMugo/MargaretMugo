@@ -18,6 +18,8 @@ I am a software engineer enthusiastic to explore the machine learning world.
 <img align="left" alt="Python" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 
+<br />
+<br />
 ---
 <details>
   <summary>:zap: GitHub Stats</summary>
