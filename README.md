@@ -5,7 +5,7 @@
 I am a software engineer enthusiastic to explore the machine learning world. 
 
 - 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning React and Flutter
+- 🌱 I’m currently learning React
 - ⚡ Fun fact: I love to read novels
 
 
